@@ -1,0 +1,2 @@
+10bfcc61575efb85454258c9f2d75fa82664abefba7882eacd7cca21aefd809d  accuknox-sumengine_0.0.0-SNAPSHOT-0f4f44d_linux-amd64.tar.gz
+4dc3ce503f8972634530a8c39a9d4ba933bbbded1080a42d68e6dc6e7812501e  accuknox-sumengine_0.0.0-SNAPSHOT-0f4f44d_linux-arm64.tar.gz
